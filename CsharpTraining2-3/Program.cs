@@ -34,7 +34,7 @@ namespace CsharpTraining2_3
 
         public Person(int myAge)
         {
-            this.age = myAge; //this可省略
+            this.age = myAge; 
         }
 
         public int GetAge()
@@ -42,7 +42,7 @@ namespace CsharpTraining2_3
             return age;
         }
 
-        public static int GetSix() //靜態方法
+        public static int GetSix() 
         {
             return 6;
         }
