@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36E3D110-516B-43DC-94B3-F59A9FC603F3}</ProjectGuid>
+    <ProjectGuid>{7EBB3C72-166E-4892-9DF2-33C7F77F0165}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CsharpTraining10_2</RootNamespace>
-    <AssemblyName>CsharpTraining10-2</AssemblyName>
+    <RootNamespace>CsharpTraining11_1</RootNamespace>
+    <AssemblyName>CsharpTraining11-1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
