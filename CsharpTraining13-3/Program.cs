@@ -78,13 +78,14 @@ namespace CsharpTraining13_3
     {
         event MyDelegate MyEvent;
         //較好的格式
-        event EventHandler MyGuidlineEvvent;
+        event EventHandler MyGuidlineEvent;
         void FireAway();
     }
 
     public class Myclass : I
     {
         public event MyDelegate MyEvent;
+        public event EventHandler MyGuidlineEvent;
 
         public void FireAway()
         {

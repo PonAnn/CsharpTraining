@@ -62,7 +62,7 @@ namespace CsharpTraining11_3
 
                 return tmp;
             }
-            private set
+            set
             {
                 if (index >= 0 && index <= nameList.Length - 1)
                 {
