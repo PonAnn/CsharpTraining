@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpTraining15-1", "Cshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpTraining15-2", "CsharpTraining15-2\CsharpTraining15-2.csproj", "{8A388387-AEAC-4D2D-928E-B505CD83A085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpTraining15-3", "CsharpTraining15-3\CsharpTraining15-3.csproj", "{2357F5D2-9C31-489A-BEE1-556C8B20960F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{8A388387-AEAC-4D2D-928E-B505CD83A085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A388387-AEAC-4D2D-928E-B505CD83A085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A388387-AEAC-4D2D-928E-B505CD83A085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2357F5D2-9C31-489A-BEE1-556C8B20960F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2357F5D2-9C31-489A-BEE1-556C8B20960F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2357F5D2-9C31-489A-BEE1-556C8B20960F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2357F5D2-9C31-489A-BEE1-556C8B20960F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
